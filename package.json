@@ -1,7 +1,7 @@
 {
   "name": "jq-pagination",
   "description": "A jQuery pagination plugin (obviously)",
-  "version": "1.4.2-alpha.1",
+  "version": "1.4.2-alpha.2",
   "author": "Ben Everard <hello@beneverard.co.uk> (http://beneverard.co.uk)",
   "bugs": {
     "url": "https://github.com/beneverard/jqPagination/issues"
